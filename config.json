@@ -1,0 +1,10 @@
+{
+  "allowed_keywords": ["안녕", "질문", "도움", "GPT"],
+  "blocked_words": [],
+  "blocked_users": [],
+  "max_messages_per_cycle": 3,
+  "min_message_length": 2,
+  "filter_duplicates": true,
+  "enable_gpt": true,
+  "enable_tts": true
+}
